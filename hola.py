@@ -10,6 +10,3 @@ def print_hello_bye():
     print_hello()
     print_bye()
 print_hello_bye()
-print_hello_bye()
-print_hello_bye()
-print_hello_bye()
